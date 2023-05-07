@@ -1,0 +1,10 @@
+legend{
+  border-radius: 10px;
+}
+fieldset:hover{background-color: rgb(17, 132, 136);}
+
+#suc{font-size: 10px;}
+#jdf{font-size: 20px;}
+fieldset {border: burlywood;
+  width: 20px;
+}
